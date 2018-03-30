@@ -1,1 +1,0 @@
-var profile={name:"Leke",type:"Bar",location:"Earth 🌍",properties:["Javascript","HTML","CSS"]};
