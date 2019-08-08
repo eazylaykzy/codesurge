@@ -13,19 +13,26 @@
     "type": "git",
     "url": "https://github.com/eazylaykzy"
   },
-  "author": "Femi",
-  "license": "MIT",
+  "author": "Adeleke",
+  "license": "NONE",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^4.1.0",
-    "gulp-clean-css": "^3.9.3",
+    "gulp-clean-css": "^3.10.0",
     "gulp-concat": "^2.6.1",
-    "gulp-imagemin": "^4.1.0",
-    "gulp-plumber": "^1.2.0",
-    "gulp-sass": "^3.1.0",
-    "gulp-sourcemaps": "^2.6.4",
-    "gulp-uglify": "^3.0.0",
-    "imagemin-mozjpeg": "^7.0.0",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "imagemin-mozjpeg": "^8.0.0",
+    "postcss": "^7.0.17",
     "pump": "^3.0.0"
+  },
+  "dependencies": {
+    "natives": "^1.1.6"
   }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "omnifood",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Eazylaykzy",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "^4.1.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-plumber": "^1.2.0",
+        "gulp-sourcemaps": "^2.6.4",
+        "waypoints": "^4.0.1"
+    }
+}
